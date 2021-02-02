@@ -8,6 +8,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 + <font size=5> **Array** </font>
   + 27: Remove Element
   + 35: Search Insert Position
+  + 53: Maximum Subarray
 
 ---
 
