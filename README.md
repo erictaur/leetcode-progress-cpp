@@ -14,5 +14,5 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 2/1/2021
+Last Update: 2/2/2021
 
