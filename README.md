@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem name (with spaces).
 
 ## Finished Problems
-+ <font size=5> **Array** </font>
+[![Generic badge](https://img.shields.io/badge/Leetcode-Array-<Green>.svg)](https://leetcode.com/tag/array/)
   + 27: Remove Element
   + 35: Search Insert Position
   + 53: Maximum Subarray
