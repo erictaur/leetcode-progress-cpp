@@ -9,6 +9,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
   + 27: Remove Element
   + 35: Search Insert Position
   + 53: Maximum Subarray
+  + 88: Merge Sorted Array
 
 ---
 
