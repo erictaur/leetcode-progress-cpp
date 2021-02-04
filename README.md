@@ -6,11 +6,12 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 
 ## Finished Problems
 [![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/)
-  + 27: Remove Element
-  + 35: Search Insert Position
-  + 53: Maximum Subarray
-  + 66: Plus One
-  + 88: Merge Sorted Array
+  + 27:  Remove Element
+  + 35:  Search Insert Position
+  + 53:  Maximum Subarray
+  + 66:  Plus One
+  + 88:  Merge Sorted Array
+  + 118: Pascal's-Triangle
 
 ---
 
