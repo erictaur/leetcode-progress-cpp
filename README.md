@@ -12,10 +12,12 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
   + 66:  Plus One
   + 88:  Merge Sorted Array
   + 118: Pascal's-Triangle
+  + 121: Best Time to Buy and Sell Stock I
+  + 122: Best Time to Buy and Sell Stock II
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 2/4/2021
+Last Update: 2/5/2021
 
