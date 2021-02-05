@@ -14,6 +14,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
   + 118: Pascal's-Triangle
   + 121: Best Time to Buy and Sell Stock I
   + 122: Best Time to Buy and Sell Stock II
+  + 167: Two Sum II - Input array is sorted
 
 ---
 
