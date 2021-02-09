@@ -21,6 +21,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 167    | Two Sum II - Input array is sorted |    2/6    |             |
 | 217    | Contains-Duplicate                 |    2/7    |             |
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/)
+
 | List   |                                    |           |             |
 |--------|------------------------------------|-----------|-------------|
 | Number | Title                              | Init Date | Review Date |
@@ -32,5 +34,5 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 2/6/2021
+Last Update: 2/9/2021
 
