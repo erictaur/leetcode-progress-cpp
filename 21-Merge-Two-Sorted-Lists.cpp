@@ -16,21 +16,8 @@ public:
         }
         current = current->next;
     }
-    if(l1){
-        while(l1){
-            current->next = new ListNode(l1->val);
-            l1 = l1->next;
-            current = current->next;
-        }
-        
-    }
-    if(l2){
-        while(l2){
-            current->next = new ListNode(l2->val);
-            l2 = l2->next;
-            current = current->next;
-        }
-    }
+    if(l1) current->next = l1;
+    if(l2) current->next = l2;
         
     return NewList.next;
     }
