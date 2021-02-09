@@ -21,6 +21,13 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 167    | Two Sum II - Input array is sorted |    2/6    |             |
 | 217    | Contains-Duplicate                 |    2/7    |             |
 
+| List   |                                    |           |             |
+|--------|------------------------------------|-----------|-------------|
+| Number | Title                              | Init Date | Review Date |
+| 2      | Add Two Numbers                    |    2/8    |             |
+| 24     | Swap Nodes in Pairs                |    2/8    |             |
+| 21     | Merge Two Sorted Lists             |    2/9    |             |
+
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
