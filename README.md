@@ -27,7 +27,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 |--------|------------------------------------|-----------|-------------|---------------|
 | Number | Title                              | Init Date | Review Date | Special Notes |
 | 2      | Add Two Numbers                    |    2/8    |             |               |
-| 24     | Swap Nodes in Pairs                |    2/8    |             |               |
+| 24     | Swap Nodes in Pairs                |    2/8    |             | Recursive     |
 | 21     | Merge Two Sorted Lists             |    2/9    |             |               |
 | 141    | Linked List Cycle                  |    2/10   |             | Fast + Slow   |
 
