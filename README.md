@@ -12,7 +12,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | Number | Title                              | Init Date | Review Date | Special Notes |
 | 27     | Remove Element                     |    1/30   |             |               |
 | 35     | Search Insert Position             |    1/31   |             |               |
-| 53     | Maximum Subarray                   |    2/1    |             |               |
+| 53     | Maximum Subarray                   |    2/1    |             | DP            |
 | 66     | Plus One                           |    2/2    |             |               |
 | 88     | Merge Sorted Array                 |    2/3    |             |               |
 | 118    | Pascal's-Triangle                  |    2/4    |             |               |
