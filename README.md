@@ -31,9 +31,18 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 21     | Merge Two Sorted Lists             |    2/9    |             |               |
 | 141    | Linked List Cycle                  |    2/10   |             | Fast + Slow   |
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/)
+
+| Tree   |                                    |           |             |               |
+|--------|------------------------------------|-----------|-------------|---------------|
+| Number | Title                              | Init Date | Review Date | Special Notes |
+| 94     | Binary Tree Inorder Traversal      |    2/11   |             | Recursive     |
+| 100    | Same Tree                          |    2/11   |             | Recursive     |
+| 101    | Symmetric Tree                     |    2/11   |             | Recursive     |
+
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 2/10/2021
+Last Update: 2/11/2021
 
