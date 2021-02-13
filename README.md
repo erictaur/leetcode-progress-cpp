@@ -33,16 +33,18 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/)
 
-| Tree   |                                    |           |             |               |
-|--------|------------------------------------|-----------|-------------|---------------|
-| Number | Title                              | Init Date | Review Date | Special Notes |
-| 94     | Binary Tree Inorder Traversal      |    2/11   |             | Recursive     |
-| 100    | Same Tree                          |    2/11   |             | Recursive     |
-| 101    | Symmetric Tree                     |    2/11   |             | Recursive     |
+| Tree   |                                      |           |             |               |
+|--------|--------------------------------------|-----------|-------------|---------------|
+| Number | Title                                | Init Date | Review Date | Special Notes |
+| 94     | Binary Tree Inorder Traversal        |    2/11   |             | Recursive     |
+| 100    | Same Tree                            |    2/11   |             | Recursive     |
+| 101    | Symmetric Tree                       |    2/11   |             | Recursive     |
+| 102    | Binary Tree Level Order Traversal    |    2/13   |             | BFS + queue   |
+| 107    | Binary Tree Level Order Traversal II |    2/13   |             | BFS + queue   |
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 2/11/2021
+Last Update: 2/13/2021
 
