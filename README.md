@@ -41,6 +41,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 101    | Symmetric Tree                       |    2/11   |             | Recursive     |
 | 102    | Binary Tree Level Order Traversal    |    2/13   |             | BFS + queue   |
 | 107    | Binary Tree Level Order Traversal II |    2/13   |             | BFS + queue   |
+| 872    | Leaf-Similar Trees                   |    2/13   |             | Recursive     |
 
 ---
 
