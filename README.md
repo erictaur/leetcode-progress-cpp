@@ -49,6 +49,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 |--------|--------------------------------------|-----------|-------------|---------------|
 | Number | Title                                | Init Date | Review Date | Special Notes |
 | 733    | Flood Fill                           |    2/15   |             | DFS + parpass |
+| 547*   | Number of Provinces                  |    2/16   |             | DFS           |
+| 841*   | Keys and Rooms                       |    2/16   |             | DFS           |
 
 ---
 
