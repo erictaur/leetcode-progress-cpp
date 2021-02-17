@@ -31,7 +31,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 21     | Merge Two Sorted Lists               |    2/9    |             |               |
 | 141    | Linked List Cycle                    |    2/10   |             | Fast + Slow   |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 6
+[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 7
 
 | Tree   |                                      |           |             |               |
 |--------|--------------------------------------|-----------|-------------|---------------|
@@ -42,6 +42,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 102    | Binary Tree Level Order Traversal    |    2/13   |             | BFS + queue   |
 | 107    | Binary Tree Level Order Traversal II |    2/13   |             | BFS + queue   |
 | 872    | Leaf-Similar Trees                   |    2/13   |             | Recursive     |
+| 530    | Minimum Absolute Difference in BST   |    2/17   |             | In-Order      |
+
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 4
 
@@ -53,7 +55,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 841*   | Keys and Rooms                       |    2/16   |             | DFS                     |
 | 207*   | Course Schedule                      |    2/17   |             | DFS + topological sort  |
 
-Total: 24
+Total: 25
 
 ---
 
