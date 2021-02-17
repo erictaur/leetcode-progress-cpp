@@ -21,6 +21,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 167    | Two Sum II - Input array is sorted   |    2/6    |             |               |
 | 217    | Contains-Duplicate                   |    2/7    |             |               |
 
+Sub-Total: 10
+
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/)
 
 | List   |                                      |           |             |               |
@@ -30,6 +32,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 24     | Swap Nodes in Pairs                  |    2/8    |             | Recursive     |
 | 21     | Merge Two Sorted Lists               |    2/9    |             |               |
 | 141    | Linked List Cycle                    |    2/10   |             | Fast + Slow   |
+
+Sub-Total: 4
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/)
 
@@ -43,6 +47,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 107    | Binary Tree Level Order Traversal II |    2/13   |             | BFS + queue   |
 | 872    | Leaf-Similar Trees                   |    2/13   |             | Recursive     |
 
+Sub-Total: 6
+
 [![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/)
 
 | DFS    |                                      |           |             |                         |
@@ -53,9 +59,13 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 841*   | Keys and Rooms                       |    2/16   |             | DFS                     |
 | 207*   | Course Schedule                      |    2/17   |             | DFS + topological sort  |
 
+Sub-Total: 4
+
+Total: 24
+
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 2/15/2021
+Last Update: 2/17/2021
 
