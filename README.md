@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/)
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 10
 
 | Array  |                                      |           |             |               |
 |--------|--------------------------------------|-----------|-------------|---------------|
@@ -21,9 +21,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 167    | Two Sum II - Input array is sorted   |    2/6    |             |               |
 | 217    | Contains-Duplicate                   |    2/7    |             |               |
 
-Sub-Total: 10
-
-[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/)
+[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 4
 
 | List   |                                      |           |             |               |
 |--------|--------------------------------------|-----------|-------------|---------------|
@@ -33,9 +31,7 @@ Sub-Total: 10
 | 21     | Merge Two Sorted Lists               |    2/9    |             |               |
 | 141    | Linked List Cycle                    |    2/10   |             | Fast + Slow   |
 
-Sub-Total: 4
-
-[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/)
+[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 6
 
 | Tree   |                                      |           |             |               |
 |--------|--------------------------------------|-----------|-------------|---------------|
@@ -47,9 +43,7 @@ Sub-Total: 4
 | 107    | Binary Tree Level Order Traversal II |    2/13   |             | BFS + queue   |
 | 872    | Leaf-Similar Trees                   |    2/13   |             | Recursive     |
 
-Sub-Total: 6
-
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/)
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 4
 
 | DFS    |                                      |           |             |                         |
 |--------|--------------------------------------|-----------|-------------|-------------------------|
@@ -58,8 +52,6 @@ Sub-Total: 6
 | 547*   | Number of Provinces                  |    2/16   |             | DFS                     |
 | 841*   | Keys and Rooms                       |    2/16   |             | DFS                     |
 | 207*   | Course Schedule                      |    2/17   |             | DFS + topological sort  |
-
-Sub-Total: 4
 
 Total: 24
 
