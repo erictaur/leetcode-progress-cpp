@@ -45,7 +45,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 530    | Minimum Absolute Difference in BST   |    2/17   |             | In-Order      |
 
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 4
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 5
 
 | DFS    |                                      |           |             |                         |
 |--------|--------------------------------------|-----------|-------------|-------------------------|
@@ -54,12 +54,13 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 547*   | Number of Provinces                  |    2/16   |             | DFS                     |
 | 841*   | Keys and Rooms                       |    2/16   |             | DFS                     |
 | 207*   | Course Schedule                      |    2/17   |             | DFS + topological sort  |
+| 39*    | Combination Sum                      |    2/22   |             | DFS                     |
 
-Total: 25
+Total: 26
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 2/17/2021
+Last Update: 2/22/2021
 
