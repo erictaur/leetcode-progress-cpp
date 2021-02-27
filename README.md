@@ -10,7 +10,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | Array  |                                      |           |             |               |
 |--------|--------------------------------------|-----------|-------------|---------------|
 | Number | Title                                | Init Date | Review Date | Special Notes |
-| 27     | Remove Element                       |    1/30   |             |               |
+| 27     | Remove Element                       |    1/30   |    2/27     |               |
 | 35     | Search Insert Position               |    1/31   |             |               |
 | 53     | Maximum Subarray                     |    2/1    |             | DP            |
 | 66     | Plus One                             |    2/2    |             |               |
