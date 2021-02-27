@@ -8,7 +8,8 @@ public:
             if(nums[i] == val){
                 nums.erase(nums.begin() + i);
                 init_len--;
-                i--;
+                // Make i still if nums[i] == target
+                i--; // nums[i] points to something different after the erase
             }
         }
         return nums.size();
