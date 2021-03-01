@@ -29,7 +29,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 2      | Add Two Numbers                      |    2/8    |             |               |
 | 24     | Swap Nodes in Pairs                  |    2/8    |             | Recursive     |
 | 21     | Merge Two Sorted Lists               |    2/9    |  2/28       |               |
-| 141    | Linked List Cycle                    |    2/10   |             | Fast + Slow   |
+| 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow   |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 8
 
