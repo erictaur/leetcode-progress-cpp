@@ -57,11 +57,18 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 207*   | Course Schedule                      |    2/17   |             | DFS + topological sort  |
 | 39*    | Combination Sum                      |    2/22   |             | DFS                     |
 
-Total: 27
+[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 1
+
+| DP     |                                      |           |             |                |
+|--------|--------------------------------------|-----------|-------------|----------------|
+| Number | Title                                | Init Date | Review Date | Special Notes  |
+| 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
+
+Total: 28
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 2/27/2021
+Last Update: 3/2/2021
 
