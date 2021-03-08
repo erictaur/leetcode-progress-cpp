@@ -29,19 +29,21 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 21     | Merge Two Sorted Lists               |    2/9    |  2/28       |               |
 | 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow   |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 8
+[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 9
 
-| Tree   |                                      |           |             |               |
-|--------|--------------------------------------|-----------|-------------|---------------|
-| Number | Title                                | Init Date | Review Date | Special Notes |
-| 94     | Binary Tree Inorder Traversal        |    2/11   |             | Recursive     |
-| 100    | Same Tree                            |    2/11   |             | Recursive     |
-| 101    | Symmetric Tree                       |    2/11   |             | Recursive     |
-| 102    | Binary Tree Level Order Traversal    |    2/13   |             | BFS + queue   |
-| 107    | Binary Tree Level Order Traversal II |    2/13   |             | BFS + queue   |
-| 872    | Leaf-Similar Trees                   |    2/13   |             | Recursive     |
-| 530    | Minimum Absolute Difference in BST   |    2/17   |             | In-Order      |
-| 700    | Search in a Binary Search Tree       |    2/18   |             | In-Order      |
+| Tree   |                                      |           |             |                             |
+|--------|--------------------------------------|-----------|-------------|-----------------------------|
+| Number | Title                                | Init Date | Review Date | Special Notes               |
+| 94     | Binary Tree Inorder Traversal        |    2/11   |             | Recursive                   |
+| 100    | Same Tree                            |    2/11   |             | Recursive                   |
+| 101    | Symmetric Tree                       |    2/11   |             | Recursive                   |
+| 102    | Binary Tree Level Order Traversal    |    2/13   |             | BFS + queue                 |
+| 107    | Binary Tree Level Order Traversal II |    2/13   |             | BFS + queue                 |
+| 872    | Leaf-Similar Trees                   |    2/13   |             | Recursive                   |
+| 530    | Minimum Absolute Difference in BST   |    2/17   |             | In-Order                    |
+| 700    | Search in a Binary Search Tree       |    2/18   |             | In-Order                    |
+| 589*   | N-ary Tree Preorder Traversal        |    3/6    |             | Pre-Order + iterative stack |
+	
 
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 5
@@ -65,11 +67,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 28
+Total: 29
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 3/2/2021
+Last Update: 3/7/2021
 
