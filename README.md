@@ -19,15 +19,16 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 167    | Two Sum II - Input array is sorted   |    2/6    |             |               |
 | 217    | Contains-Duplicate                   |    2/7    |             |               |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 4
+[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
-| List   |                                      |           |             |               |
-|--------|--------------------------------------|-----------|-------------|---------------|
-| Number | Title                                | Init Date | Review Date | Special Notes |
-| 2      | Add Two Numbers                      |    2/8    |             |               |
-| 24     | Swap Nodes in Pairs                  |    2/8    |             | Recursive     |
-| 21     | Merge Two Sorted Lists               |    2/9    |  2/28       |               |
-| 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow   |
+| List   |                                      |           |             |                |
+|--------|--------------------------------------|-----------|-------------|----------------|
+| Number | Title                                | Init Date | Review Date | Special Notes  |
+| 2      | Add Two Numbers                      |    2/8    |             |                |
+| 24     | Swap Nodes in Pairs                  |    2/8    |             | Recursive      |
+| 21     | Merge Two Sorted Lists               |    2/9    |  2/28       |                |
+| 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow    |
+| 23     | Merge K Sorted Lists                 |    3/10   |             | Priority Queue |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 9
 
@@ -67,11 +68,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 29
+Total: 30
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 3/7/2021
+Last Update: 3/10/2021
 
