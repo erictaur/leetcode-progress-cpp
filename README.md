@@ -18,6 +18,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 122    | Best Time to Buy and Sell Stock II   |    2/5    |             |               |
 | 167    | Two Sum II - Input array is sorted   |    2/6    |             |               |
 | 217    | Contains-Duplicate                   |    2/7    |             |               |
+| 1480   | Running Sum of 1d Array              |    3/10   |             |               |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
