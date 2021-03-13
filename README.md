@@ -23,6 +23,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1470   | Shuffle the Array                        |    3/10   |             |               |
 | 414    | Third Maximum Number                     |    3/10   |             | sets          |
 | 1672   | Richest Customer Wealth                  |    3/12   |             |               |
+| 724    | Find Pivot Index                         |    3/12   |             |               |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
