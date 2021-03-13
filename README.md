@@ -80,5 +80,5 @@ Total: 36
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 3/10/2021
+Last Update: 3/12/2021
 
