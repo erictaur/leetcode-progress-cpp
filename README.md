@@ -7,23 +7,23 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 ## Finished Problems
 [![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 14
 
-| Array  |                                          |           |             |               |
-|--------|------------------------------------------|-----------|-------------|---------------|
-| Number | Title                                    | Init Date | Review Date | Special Notes |
-| 27     | Remove Element                           |    1/30   |    2/27     |               |
-| 35     | Search Insert Position                   |    1/31   |             |               |
-| 66     | Plus One                                 |    2/2    |             |               |
-| 88     | Merge Sorted Array                       |    2/3    |             |               |
-| 118    | Pascal's-Triangle                        |    2/4    |             |               |
-| 122    | Best Time to Buy and Sell Stock II       |    2/5    |             |               |
-| 167    | Two Sum II - Input array is sorted       |    2/6    |             |               |
-| 217    | Contains-Duplicate                       |    2/7    |             |               |
-| 1480   | Running Sum of 1d Array                  |    3/10   |             |               |
-| 1431   | Kids With the Greatest Number of Candies |    3/10   |             |               |
-| 1470   | Shuffle the Array                        |    3/10   |             |               |
-| 414    | Third Maximum Number                     |    3/10   |             | sets          |
-| 1672   | Richest Customer Wealth                  |    3/12   |             |               |
-| 724    | Find Pivot Index                         |    3/12   |             |               |
+| Array  |                                          |           |             |                          |
+|--------|------------------------------------------|-----------|-------------|--------------------------|
+| Number | Title                                    | Init Date | Review Date | Special Notes            |
+| 27     | Remove Element                           |    1/30   |    2/27     |                          |
+| 35     | Search Insert Position                   |    1/31   |             |                          |
+| 66     | Plus One                                 |    2/2    |             |                          |
+| 88     | Merge Sorted Array                       |    2/3    |             |                          |
+| 118    | Pascal's-Triangle                        |    2/4    |             |                          |
+| 122    | Best Time to Buy and Sell Stock II       |    2/5    |             |                          |
+| 167    | Two Sum II - Input array is sorted       |    2/6    |             |                          |
+| 217    | Contains-Duplicate                       |    2/7    |             |                          |
+| 1480   | Running Sum of 1d Array                  |    3/10   |             |                          |
+| 1431   | Kids With the Greatest Number of Candies |    3/10   |             |                          |
+| 1470   | Shuffle the Array                        |    3/10   |             |                          |
+| 414    | Third Maximum Number                     |    3/10   |             | sets                     |
+| 1672   | Richest Customer Wealth                  |    3/12   |             |                          |
+| 724    | Find Pivot Index                         |    3/12   |             | cannot reset left, right |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
