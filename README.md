@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 17
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 18
 
 | Array  |                                                      |           |             |                          |
 |--------|------------------------------------------------------|-----------|-------------|--------------------------|
@@ -27,6 +27,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1512   | Number of Good Pairs                                 |    3/20   |             |                          |
 | 896    | Monotonic Array                                      |    3/20   |             |                          |
 | 1365*  | How Many Numbers Are Smaller Than the Current Number |    3/23   |             | Create lookup table O(n) |
+| 1*     | Two Sum                                              |    3/23   |             | Unordered map and find() |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
@@ -77,7 +78,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 39
+Total: 40
 
 ---
 
