@@ -28,6 +28,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 896    | Monotonic Array                                      |    3/20   |             |                          |
 | 1365*  | How Many Numbers Are Smaller Than the Current Number |    3/23   |             | Create lookup table O(n) |
 | 1*     | Two Sum                                              |    3/23   |             | Unordered map and find() |
+| 1773*  | Count Items Matching a Rule                          |    3/24   |             | Lambda functions         |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
@@ -73,8 +74,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | DP     |                                      |           |             |                |
 |--------|--------------------------------------|-----------|-------------|----------------|
 | Number | Title                                | Init Date | Review Date | Special Notes  |
-| 53     | Maximum Subarray                     |    2/1    |             |                |
-| 121    | Best Time to Buy and Sell Stock I    |    2/5    |             |                |
+| 53*    | Maximum Subarray                     |    2/1    |             |                |
+| 121*   | Best Time to Buy and Sell Stock I    |    2/5    |             |                |
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
