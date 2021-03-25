@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 19
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 20
 
 | Array  |                                                      |           |             |                                 |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|
@@ -29,6 +29,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1365*  | How Many Numbers Are Smaller Than the Current Number |    3/23   |             | Create lookup table O(n)        |
 | 1*     | Two Sum                                              |    3/23   |             | Unordered map and find()        |
 | 1773*  | Count Items Matching a Rule                          |    3/24   |             | Lambda functions and count_if() |
+| 1313*  | Decompress Run-Length Encoded List                   |    3/25   |             | vector.insert()                 |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
@@ -79,7 +80,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 41
+Total: 42
 
 ---
 
