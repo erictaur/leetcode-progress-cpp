@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 22
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 23
 
 | Array  |                                                      |           |             |                                 |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|
@@ -32,6 +32,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1313*  | Decompress Run-Length Encoded List                   |    3/25   |             | vector.insert()                 |
 | 1389*  | Create Target Array in the Given Order               |    3/26   |             | vector.insert() or swap()       |
 | 1486   | XOR Operation in an Array                            |    3/28   |             |                                 |
+| 1588   | Sum of All Odd Length Subarrays                      |    3/28   |             |                                 |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
@@ -82,7 +83,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 44
+Total: 45
 
 ---
 
