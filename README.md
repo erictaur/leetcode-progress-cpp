@@ -31,6 +31,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1773*  | Count Items Matching a Rule                          |    3/24   |             | Lambda functions and count_if() |
 | 1313*  | Decompress Run-Length Encoded List                   |    3/25   |             | vector.insert()                 |
 | 1389*  | Create Target Array in the Given Order               |    3/26   |             | vector.insert() or swap()       |
+| 1486   | XOR Operation in an Array                            |    3/28   |             |                                 |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
@@ -81,11 +82,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 43
+Total: 44
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 3/26/2021
+Last Update: 3/28/2021
 
