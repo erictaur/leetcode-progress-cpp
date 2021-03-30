@@ -18,7 +18,7 @@ public:
     }
 };
 
-/* 101. Symmetric-Tree.cpp
+/* 1534. Count-Good-Triplets.cpp
 //////////////////////////////////////////////////
 Given an array of integers arr, and three integers a, b and c. 
 You need to find the number of good triplets.
