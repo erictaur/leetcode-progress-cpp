@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 27
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 28
 
 | Array  |                                                      |           |             |                                 |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|
@@ -37,6 +37,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 999    | Available Captures for Rook                          |    3/30   |             |                                 |
 | 1732   | Find the Highest Altitude                            |    3/31   |             |                                 |
 | 1266   | Minimum Time Visiting All Points                     |    3/31   |             |                                 |
+| 1252   | Cells with Odd Values in a Matrix                    |    4/12   |             |                                 |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
@@ -87,11 +88,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 49
+Total: 50
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 3/31/2021
+Last Update: 4/12/2021
 
