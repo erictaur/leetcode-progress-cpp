@@ -41,6 +41,13 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1295   | Find Numbers with Even Number of Digits              |    4/12   |             |                                 |
 | 832    | Flipping an Image                                    |    4/12   |             |                                 |
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 1
+
+| Hash   |                                      |           |             |                |
+|--------|--------------------------------------|-----------|-------------|----------------|
+| Number | Title                                | Init Date | Review Date | Special Notes  |
+| 771    | Jewels and Stones                    |    4/15   |             |                |
+
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
 | List   |                                      |           |             |                |
@@ -90,11 +97,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 52
+Total: 53
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 4/12/2021
+Last Update: 4/15/2021
 
