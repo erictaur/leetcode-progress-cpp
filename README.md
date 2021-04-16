@@ -41,7 +41,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1295   | Find Numbers with Even Number of Digits              |    4/12   |             |                                 |
 | 832    | Flipping an Image                                    |    4/12   |             |                                 |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 5
+[![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 6
 
 | Hash   |                                      |           |             |                        |
 |--------|--------------------------------------|-----------|-------------|------------------------|
@@ -51,6 +51,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 961    | N-Repeated Element in Size 2N Array  |    4/16   |             | unordered_set          |
 | 1207   | Unique Number of Occurrences         |    4/16   |             | uset + umap            |
 | 811*   | Subdomain Visit Count                |    4/16   |             | stoi, string::find()   |
+| 1002*  | Find Common Characters               |    4/16   |             | 2 Hash Tables (vector) |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
@@ -101,7 +102,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 57
+Total: 58
 
 ---
 
