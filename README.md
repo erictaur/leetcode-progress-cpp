@@ -50,7 +50,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1748   | Sum of Unique Elements               |    4/15   |             |                        |
 | 961    | N-Repeated Element in Size 2N Array  |    4/16   |             | unordered_set          |
 | 1207   | Unique Number of Occurrences         |    4/16   |             | uset + umap            |
-| 811    | Subdomain Visit Count                |    4/16   |             | stoi, string::find()   |
+| 811*   | Subdomain Visit Count                |    4/16   |             | stoi, string::find()   |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
