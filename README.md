@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 30
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 31
 
 | Array  |                                                      |           |             |                                 |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|
@@ -40,6 +40,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1252   | Cells with Odd Values in a Matrix                    |    4/12   |             |                                 |
 | 1295   | Find Numbers with Even Number of Digits              |    4/12   |             |                                 |
 | 832    | Flipping an Image                                    |    4/12   |             |                                 |
+| 463*   | Island Perimeter                                     |    4/16   |             | Perimeter math                  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 6
 
@@ -52,6 +53,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1207   | Unique Number of Occurrences         |    4/16   |             | uset + umap            |
 | 811*   | Subdomain Visit Count                |    4/16   |             | stoi, string::find()   |
 | 1002*  | Find Common Characters               |    4/16   |             | 2 Hash Tables (vector) |
+
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
 
@@ -102,7 +104,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 58
+Total: 59
 
 ---
 
