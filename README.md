@@ -66,7 +66,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow    |
 | 23     | Merge K Sorted Lists                 |    3/10   |             | Priority Queue |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 12
+[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 13
 
 | Tree   |                                      |           |             |                             |
 |--------|--------------------------------------|-----------|-------------|-----------------------------|
@@ -83,6 +83,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 938    | Range Sum of BST                     |    4/17   |             | In-Order                    |
 | 617*   | Merge Two Binary Trees               |    4/18   |             | In-Order + new()            |
 | 897*   | Increasing Order Search Tree         |    4/19   |             | In-Order + new()            |
+| 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 5
 
@@ -105,7 +106,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 62
+Total: 63
 
 ---
 
