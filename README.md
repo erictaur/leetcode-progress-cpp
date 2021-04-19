@@ -66,7 +66,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow    |
 | 23     | Merge K Sorted Lists                 |    3/10   |             | Priority Queue |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 10
+[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 11
 
 | Tree   |                                      |           |             |                             |
 |--------|--------------------------------------|-----------|-------------|-----------------------------|
@@ -80,7 +80,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 530    | Minimum Absolute Difference in BST   |    2/17   |             | In-Order                    |
 | 700    | Search in a Binary Search Tree       |    2/18   |             | In-Order                    |
 | 589*   | N-ary Tree Preorder Traversal        |    3/6    |             | Pre-Order + iterative stack |
-| 938    | Range Sum of BST                     |    4/17   |             | Pre-Order                   |
+| 938    | Range Sum of BST                     |    4/17   |             | In-Order                    |
+| 617*   | Merge Two Binary Trees               |    4/18   |             | In-Order + new()            |
 	
 
 
@@ -105,11 +106,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 60
+Total: 61
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 4/17/2021
+Last Update: 4/18/2021
 
