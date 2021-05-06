@@ -85,7 +85,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 897*   | Increasing Order Search Tree         |    4/19   |             | In-Order + new()            |
 | 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 8
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 9
 
 | DFS    |                                            |           |             |                         |
 |--------|--------------------------------------------|-----------|-------------|-------------------------|
@@ -98,6 +98,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 687*   | Longest Univalue Path                      |    5/2    |             | DFS                     |
 | 104*   | Maximum Depth of Binary Tree               |    5/3    |             | DFS                     |
 | 108*   | Convert Sorted Array to Binary Search Tree |    5/4    |             | DFS                     |
+| 114**  | Flatten Binary Tree to Linked List         |    5/6    |             | DFS                     |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 3
 
@@ -109,7 +110,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 66
+Total: 67
 
 ---
 
