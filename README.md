@@ -85,7 +85,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 897*   | Increasing Order Search Tree         |    4/19   |             | In-Order + new()            |
 | 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 11
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 12
 
 | DFS    |                                            |           |             |                         |
 |--------|--------------------------------------------|-----------|-------------|-------------------------|
@@ -101,6 +101,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 114**  | Flatten Binary Tree to Linked List         |    5/6    |             | DFS                     |
 | 257*   | Binary Tree Paths                          |    5/10   |             | DFS                     |
 | 199*   | Binary Tree Right Side View                |    5/11   |             | DFS                     |
+| 491*   | Increasing Subsequences                    |    5/12   |             | DFS                     |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 3
 
@@ -112,11 +113,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
 
 
-Total: 69
+Total: 70
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 5/11/2021
+Last Update: 5/12/2021
 
