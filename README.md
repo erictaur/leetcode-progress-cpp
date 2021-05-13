@@ -103,7 +103,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 199*   | Binary Tree Right Side View                |    5/11   |             | DFS                     |
 | 491*   | Increasing Subsequences                    |    5/12   |             | DFS                     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 3
+[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 4
 
 | DP     |                                      |           |             |                |
 |--------|--------------------------------------|-----------|-------------|----------------|
@@ -111,13 +111,14 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 53*    | Maximum Subarray                     |    2/1    |             |                |
 | 121*   | Best Time to Buy and Sell Stock I    |    2/5    |             |                |
 | 746*   | Min Cost Climbing Stairs             |    3/2    |             | i += i-1 + i-2 |
+| 279*   | Perfect Squares                      |    5/13   |             | min(i, i- JxJ) |
 
 
-Total: 70
+Total: 71
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 5/12/2021
+Last Update: 5/13/2021
 
