@@ -113,7 +113,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 121*   | Best Time to Buy and Sell Stock I             |    2/5    |             |                |
 | 746*   | Min Cost Climbing Stairs                      |    3/2    |             | i += i-1 + i-2 |
 | 279*   | Perfect Squares                               |    5/13   |             | min(i, i- JxJ) |
-| 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | min(i, i- JxJ) |
+| 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | FSM            |
 
 
 Total: 73
