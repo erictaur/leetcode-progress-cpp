@@ -41,6 +41,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1295   | Find Numbers with Even Number of Digits              |    4/12   |             |                                 |
 | 832    | Flipping an Image                                    |    4/12   |             |                                 |
 | 463*   | Island Perimeter                                     |    4/16   |             | Perimeter math                  |
+| 73*    |  Set Matrix Zeroes                                   |    5/14   |             | O(1) Space (Last row)           |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 6
 
