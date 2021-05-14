@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 31
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 32
 
 | Array  |                                                      |           |             |                                 |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|
@@ -116,7 +116,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | min(i, i- JxJ) |
 
 
-Total: 72
+Total: 73
 
 ---
 
