@@ -86,23 +86,24 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 897*   | Increasing Order Search Tree         |    4/19   |             | In-Order + new()            |
 | 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 12
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 13
 
 | DFS    |                                            |           |             |                         |
 |--------|--------------------------------------------|-----------|-------------|-------------------------|
 | Number | Title                                      | Init Date | Review Date | Special Notes           |
-| 733*   | Flood Fill                                 |    2/15   |             | DFS + parpass           |
-| 547*   | Number of Provinces                        |    2/16   |             | DFS                     |
-| 841*   | Keys and Rooms                             |    2/16   |             | DFS                     |
-| 207*   | Course Schedule                            |    2/17   |             | DFS + topological sort  |
-| 39*    | Combination Sum                            |    2/22   |             | DFS                     |
-| 687*   | Longest Univalue Path                      |    5/2    |             | DFS                     |
-| 104*   | Maximum Depth of Binary Tree               |    5/3    |             | DFS                     |
-| 108*   | Convert Sorted Array to Binary Search Tree |    5/4    |             | DFS                     |
-| 114**  | Flatten Binary Tree to Linked List         |    5/6    |             | DFS                     |
-| 257*   | Binary Tree Paths                          |    5/10   |             | DFS                     |
-| 199*   | Binary Tree Right Side View                |    5/11   |             | DFS                     |
-| 491*   | Increasing Subsequences                    |    5/12   |             | DFS                     |
+| 733*   | Flood Fill                                 |    2/15   |             |                         |
+| 547*   | Number of Provinces                        |    2/16   |             |                         |
+| 841*   | Keys and Rooms                             |    2/16   |             |                         |
+| 207*   | Course Schedule                            |    2/17   |             | topological sort        |
+| 39*    | Combination Sum                            |    2/22   |             |                         |
+| 687*   | Longest Univalue Path                      |    5/2    |             |                         |
+| 104*   | Maximum Depth of Binary Tree               |    5/3    |             |                         |
+| 108*   | Convert Sorted Array to Binary Search Tree |    5/4    |             |                         |
+| 114**  | Flatten Binary Tree to Linked List         |    5/6    |             |                         |
+| 257*   | Binary Tree Paths                          |    5/10   |             |                         |
+| 199*   | Binary Tree Right Side View                |    5/11   |             |                         |
+| 491*   | Increasing Subsequences                    |    5/12   |             |                         |
+| 109*   | Convert Sorted List to Binary Search Tree  |    5/14   |             |                         |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 5
 
@@ -116,7 +117,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | FSM            |
 
 
-Total: 73
+Total: 74
 
 ---
 
