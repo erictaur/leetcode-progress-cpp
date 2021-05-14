@@ -76,7 +76,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 100    | Same Tree                            |    2/11   |             | Recursive                   |
 | 101    | Symmetric Tree                       |    2/11   |             | Recursive                   |
 | 102    | Binary Tree Level Order Traversal    |    2/13   |             | BFS + queue                 |
-| 107    | Binary Tree Level Order Traversal II |    2/13   |             | BFS + queue                 |
+| 107    | Binary Tree Level Order Traversal II |    2/13   |  5/14       | BFS + queue / DFS           |
 | 872    | Leaf-Similar Trees                   |    2/13   |             | Recursive                   |
 | 530    | Minimum Absolute Difference in BST   |    2/17   |             | In-Order                    |
 | 700    | Search in a Binary Search Tree       |    2/18   |             | In-Order                    |
