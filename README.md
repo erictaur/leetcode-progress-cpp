@@ -72,7 +72,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | Tree   |                                      |           |             |                             |
 |--------|--------------------------------------|-----------|-------------|-----------------------------|
 | Number | Title                                | Init Date | Review Date | Special Notes               |
-| 94     | Binary Tree Inorder Traversal        |    2/11   |             | Recursive                   |
+| 94     | Binary Tree Inorder Traversal        |    2/11   |  5/16       |                             |
 | 100    | Same Tree                            |    2/11   |             | Recursive                   |
 | 101    | Symmetric Tree                       |    2/11   |             | Recursive                   |
 | 102    | Binary Tree Level Order Traversal    |    2/13   |             | BFS + queue                 |
