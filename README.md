@@ -117,15 +117,16 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 279*   | Perfect Squares                               |    5/13   |             | min(i, i- JxJ) |
 | 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | FSM            |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-String-<Blue>.svg)](https://leetcode.com/tag/string/) Sub-Total: 1
+[![Generic badge](https://img.shields.io/badge/LeetCode-String-<Blue>.svg)](https://leetcode.com/tag/string/) Sub-Total: 2
 
 | String |                                               |           |             |                |
 |--------|-----------------------------------------------|-----------|-------------|----------------|
 | Number | Title                                         | Init Date | Review Date | Special Notes  |
 | 22*    | Generate Parentheses                          |    5/15   |             | Recursion      |
+| 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |
 
 
-Total: 76
+Total: 77
 
 ---
 
