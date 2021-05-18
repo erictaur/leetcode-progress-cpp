@@ -56,16 +56,18 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1002*  | Find Common Characters               |    4/16   |             | 2 Hash Tables (vector) |
 
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 5
+[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 7
 
-| List   |                                      |           |             |                |
-|--------|--------------------------------------|-----------|-------------|----------------|
-| Number | Title                                | Init Date | Review Date | Special Notes  |
-| 2      | Add Two Numbers                      |    2/8    |             |                |
-| 24     | Swap Nodes in Pairs                  |    2/8    |             | Recursive      |
-| 21     | Merge Two Sorted Lists               |    2/9    |  2/28       |                |
-| 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow    |
-| 23     | Merge K Sorted Lists                 |    3/10   |             | Priority Queue |
+| List   |                                      |           |             |                      |
+|--------|--------------------------------------|-----------|-------------|----------------------|
+| Number | Title                                | Init Date | Review Date | Special Notes        |
+| 2      | Add Two Numbers                      |    2/8    |             |                      |
+| 24     | Swap Nodes in Pairs                  |    2/8    |  5/17       | Recursive            |
+| 21     | Merge Two Sorted Lists               |    2/9    |  2/28       |                      |
+| 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow          |
+| 23     | Merge K Sorted Lists                 |    3/10   |             | Priority Queue       |
+| 206**  | Reverse Linked List                  |    5/17   |             | Recursive/Graphical  |
+| 148**  | Sort List                            |    5/18   |             | Merge Sort Recursive |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 14
 
@@ -126,11 +128,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |
 
 
-Total: 77
+Total: 79
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 5/16/2021
+Last Update: 5/18/2021
 
