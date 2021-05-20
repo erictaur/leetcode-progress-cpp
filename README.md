@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 32
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 33
 
 | Array  |                                                      |           |             |                                 |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|
@@ -41,7 +41,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1295   | Find Numbers with Even Number of Digits              |    4/12   |             |                                 |
 | 832    | Flipping an Image                                    |    4/12   |             |                                 |
 | 463*   | Island Perimeter                                     |    4/16   |             | Perimeter math                  |
-| 73*    |  Set Matrix Zeroes                                   |    5/14   |             | O(1) Space (Last row)           |
+| 73*    | Set Matrix Zeroes                                    |    5/14   |             | O(1) Space (Last row)           |
+| 238*   | Product of Array Except Self                         |    5/20   |             | O(n) Time (2 pointer)           |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 6
 
@@ -128,11 +129,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |
 
 
-Total: 79
+Total: 80
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 5/18/2021
+Last Update: 5/20/2021
 
