@@ -44,17 +44,18 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 73*    | Set Matrix Zeroes                                    |    5/14   |             | O(1) Space (Last row)           |
 | 238*   | Product of Array Except Self                         |    5/20   |             | O(n) Time (2 pointer)           |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 6
+[![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 7
 
-| Hash   |                                      |           |             |                        |
-|--------|--------------------------------------|-----------|-------------|------------------------|
-| Number | Title                                | Init Date | Review Date | Special Notes          |
-| 771    | Jewels and Stones                    |    4/15   |             |                        |
-| 1748   | Sum of Unique Elements               |    4/15   |             |                        |
-| 961    | N-Repeated Element in Size 2N Array  |    4/16   |             | unordered_set          |
-| 1207   | Unique Number of Occurrences         |    4/16   |             | uset + umap            |
-| 811*   | Subdomain Visit Count                |    4/16   |             | stoi, string::find()   |
-| 1002*  | Find Common Characters               |    4/16   |             | 2 Hash Tables (vector) |
+| Hash   |                                      |           |             |                              |
+|--------|--------------------------------------|-----------|-------------|------------------------------|
+| Number | Title                                | Init Date | Review Date | Special Notes                |
+| 771    | Jewels and Stones                    |    4/15   |             |                              |
+| 1748   | Sum of Unique Elements               |    4/15   |             |                              |
+| 961    | N-Repeated Element in Size 2N Array  |    4/16   |             | unordered_set                |
+| 1207   | Unique Number of Occurrences         |    4/16   |             | uset + umap                  |
+| 811*   | Subdomain Visit Count                |    4/16   |             | stoi, string::find()         |
+| 1002*  | Find Common Characters               |    4/16   |             | 2 Hash Tables (vector)       |
+| 347*   | Top K Frequent Elements              |    6/7    |             | bucket sort (reverse vector) |
 
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 7
@@ -131,11 +132,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |
 
 
-Total: 82
+Total: 83
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 6/6/2021
+Last Update: 6/7/2021
 
