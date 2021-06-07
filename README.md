@@ -58,7 +58,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 347*   | Top K Frequent Elements              |    6/7    |             | bucket sort (reverse vector) |
 
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 7
+[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 8
 
 | List   |                                      |           |             |                      |
 |--------|--------------------------------------|-----------|-------------|----------------------|
@@ -70,6 +70,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 23     | Merge K Sorted Lists                 |    3/10   |             | Priority Queue       |
 | 206**  | Reverse Linked List                  |    5/17   |             | Recursive/Graphical  |
 | 148**  | Sort List                            |    5/18   |             | Merge Sort Recursive |
+| 143*   | Reorder List                         |    6/7    |             | Recursive            |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 14
 
@@ -132,7 +133,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |
 
 
-Total: 83
+Total: 84
 
 ---
 
