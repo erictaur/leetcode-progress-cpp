@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 35
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 36
 
 | Array  |                                                      |           |             |                                 |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|
@@ -45,6 +45,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 238*   | Product of Array Except Self                         |    5/20   |             | O(n) Time (2 pointer)           |
 | 48*    | Rotate Image                                         |    6/9    |             | Rotation geometry               |
 | 11*    | Container With Most Water                            |    6/11   |             | 2 Pointers                      |
+| 33*    | Search in Rotated Sorted Array                       |    6/12   |             | 2 Pointers                      |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 7
 
@@ -135,11 +136,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |
 
 
-Total: 86
+Total: 87
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 6/11/2021
+Last Update: 6/12/2021
 
