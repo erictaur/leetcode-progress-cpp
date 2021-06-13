@@ -117,16 +117,17 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 297*   | Serialize and Deserialize Binary Tree      |    6/6    |             | stringstream            |
 | 417*   | Pacific Atlantic Water Flow                |    6/13   |             |                         |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 5
+[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 6
 
-| DP     |                                               |           |             |                |
-|--------|-----------------------------------------------|-----------|-------------|----------------|
-| Number | Title                                         | Init Date | Review Date | Special Notes  |
-| 53*    | Maximum Subarray                              |    2/1    |             |                |
-| 121*   | Best Time to Buy and Sell Stock I             |    2/5    |             |                |
-| 746*   | Min Cost Climbing Stairs                      |    3/2    |             | i += i-1 + i-2 |
-| 279*   | Perfect Squares                               |    5/13   |             | min(i, i- JxJ) |
-| 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | FSM            |
+| DP     |                                               |           |             |                          |
+|--------|-----------------------------------------------|-----------|-------------|--------------------------|
+| Number | Title                                         | Init Date | Review Date | Special Notes            |
+| 53*    | Maximum Subarray                              |    2/1    |             | i = max(i\*m, i)         |
+| 121*   | Best Time to Buy and Sell Stock I             |    2/5    |             |                          |
+| 746*   | Min Cost Climbing Stairs                      |    3/2    |             | i += i-1 + i-2           |
+| 279*   | Perfect Squares                               |    5/13   |             | min(i, i- JxJ)           |
+| 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | FSM                      |
+| 152*   | Maximum Product Subarray                      |    6/14   |             | i = max(i\*m, i) and swap|
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-String-<Blue>.svg)](https://leetcode.com/tag/string/) Sub-Total: 2
 
@@ -137,11 +138,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |
 
 
-Total: 88
+Total: 89
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 6/13/2021
+Last Update: 6/14/2021
 
