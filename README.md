@@ -129,6 +129,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 279*   | Perfect Squares                               |    5/13   |             | min(i, i- JxJ)           |     |
 | 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | FSM                      |     |
 | 152*   | Maximum Product Subarray                      |    6/14   |             | i = max(i\*m, i) and swap|     |
+| 5*     | Longest Palindromic Substring                 |    6/30   |             | 4 patterns: a aa aba abba|  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-String-<Blue>.svg)](https://leetcode.com/tag/string/) Sub-Total: 2
 
