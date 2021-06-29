@@ -118,7 +118,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 297*   | Serialize and Deserialize Binary Tree      |    6/6    |             | stringstream            |     |
 | 417*   | Pacific Atlantic Water Flow                |    6/13   |             |                         |     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 6
+[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 7
 
 | DP     |                                               |           |             |                          |     |
 |--------|-----------------------------------------------|-----------|-------------|--------------------------|-----|
@@ -140,11 +140,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |     |
 
 
-Total: 90
+Total: 91
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 6/28/2021
+Last Update: 6/30/2021
 
