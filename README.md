@@ -139,8 +139,15 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 22*    | Generate Parentheses                          |    5/15   |             | Recursion      |  V  |
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |     |
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Math-<Blue>.svg)](https://leetcode.com/tag/math/) Sub-Total: 1
 
-Total: 91
+| Math   |                                               |           |             |                |     |
+|--------|-----------------------------------------------|-----------|-------------|----------------|-----|
+| Number | Title                                         | Init Date | Review Date | Special Notes  |     |
+| 7*     | Reverse Integer                               |    6/30   |             | Overflow check |  V  |
+
+
+Total: 92
 
 ---
 
