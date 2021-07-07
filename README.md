@@ -145,13 +145,14 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 |--------|-----------------------------------------------|-----------|-------------|----------------|-----|
 | Number | Title                                         | Init Date | Review Date | Special Notes  |     |
 | 7*     | Reverse Integer                               |    6/30   |             | Overflow check |  V  |
+| 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 
 
-Total: 92
+Total: 93
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 6/30/2021
+Last Update: 7/8/2021
 
