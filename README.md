@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 37
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 39
 
 | Array  |                                                      |           |             |                                 |     |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|-----|
@@ -47,6 +47,8 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 11*    | Container With Most Water                            |    6/11   |             | 2 Pointers                      |     |
 | 33*    | Search in Rotated Sorted Array                       |    6/12   |             | 2 Pointers                      |  V  |
 | 3*     | Longest Substring Without Repeating Characters       |    6/28   |             | Sliding window                  |  V  |
+| 15*    | 3Sum                                                 |    7/10   |             | 2 Pointers                      |  V  |
+| 16*    | 3Sum Closet                                          |    7/10   |             | 2 Pointers                      |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 7
 
@@ -139,7 +141,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 22*    | Generate Parentheses                          |    5/15   |             | Recursion      |  V  |
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Math-<Blue>.svg)](https://leetcode.com/tag/math/) Sub-Total: 1
+[![Generic badge](https://img.shields.io/badge/LeetCode-Math-<Blue>.svg)](https://leetcode.com/tag/math/) Sub-Total: 2
 
 | Math   |                                               |           |             |                |     |
 |--------|-----------------------------------------------|-----------|-------------|----------------|-----|
@@ -148,11 +150,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 
 
-Total: 93
+Total: 95
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 7/8/2021
+Last Update: 7/10/2021
 
