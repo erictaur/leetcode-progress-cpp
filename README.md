@@ -119,7 +119,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 128*   | Longest Consecutive Sequence               |    6/6    |             | unordered_set           |     |
 | 297*   | Serialize and Deserialize Binary Tree      |    6/6    |             | stringstream            |     |
 | 417*   | Pacific Atlantic Water Flow                |    6/13   |             |                         |     |
-| 17*    | Letter Combinations of a Phone Number      |    7/10   |             |                         |     |
+| 17*    | Letter Combinations of a Phone Number      |    7/10   |             |                         |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 7
 
