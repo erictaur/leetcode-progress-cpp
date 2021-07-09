@@ -98,7 +98,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |     |
 | 95*    | Unique Binary Search Trees II        |    5/16   |             | Recursive Solution          |     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 16
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 17
 
 | DFS    |                                            |           |             |                         |     |
 |--------|--------------------------------------------|-----------|-------------|-------------------------|-----|
@@ -119,6 +119,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 128*   | Longest Consecutive Sequence               |    6/6    |             | unordered_set           |     |
 | 297*   | Serialize and Deserialize Binary Tree      |    6/6    |             | stringstream            |     |
 | 417*   | Pacific Atlantic Water Flow                |    6/13   |             |                         |     |
+| 17*    | Letter Combinations of a Phone Number      |    7/10   |             |                         |     |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 7
 
@@ -150,7 +151,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 
 
-Total: 95
+Total: 96
 
 ---
 
