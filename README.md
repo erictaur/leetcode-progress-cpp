@@ -65,7 +65,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 347*   | Top K Frequent Elements              |    6/7    |             | bucket sort (reverse vector) |     |
 
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 8
+[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 9
 
 | List   |                                      |           |             |                      |     |
 |--------|--------------------------------------|-----------|-------------|----------------------|-----|
@@ -78,6 +78,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 206**  | Reverse Linked List                  |    5/17   |             | Recursive/Graphical  |  V  |
 | 148**  | Sort List                            |    5/18   |             | Merge Sort Recursive |  V  |
 | 143*   | Reorder List                         |    6/7    |             | Recursive            |     |
+| 19*    | Remove Nth Node From End of List     |    7/12   |             | Fast + Slow          |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 14
 
@@ -135,13 +136,14 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 152*   | Maximum Product Subarray                      |    6/14   |             | i = max(i\*m, i) and swap|     |
 | 5*     | Longest Palindromic Substring                 |    6/30   |             | 4 patterns: a aa aba abba|  V  |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-String-<Blue>.svg)](https://leetcode.com/tag/string/) Sub-Total: 2
+[![Generic badge](https://img.shields.io/badge/LeetCode-String-<Blue>.svg)](https://leetcode.com/tag/string/) Sub-Total: 3
 
 | String |                                               |           |             |                |     |
 |--------|-----------------------------------------------|-----------|-------------|----------------|-----|
 | Number | Title                                         | Init Date | Review Date | Special Notes  |     |
 | 22*    | Generate Parentheses                          |    5/15   |             | Recursion      |  V  |
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |     |
+| 20*    | Valid Parentheses                             |    7/12   |             | Stack          |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Math-<Blue>.svg)](https://leetcode.com/tag/math/) Sub-Total: 2
 
@@ -152,11 +154,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 
 
-Total: 97
+Total: 99
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 7/10/2021
+Last Update: 7/12/2021
 
