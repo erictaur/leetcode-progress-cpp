@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 40
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 41
 
 | Array  |                                                      |           |             |                                 |     |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|-----|
@@ -50,6 +50,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 15*    | 3Sum                                                 |    7/10   |             | 2 Pointers                      |  V  |
 | 16*    | 3Sum Closet                                          |    7/10   |             | 2 Pointers                      |  V  |
 | 18*    | 4Sum                                                 |    7/10   |             | 2 Pointers                      |  V  |
+| 26*    | Remove Duplicates from Sorted Array                  |    7/13   |             | 2 Pointers                      |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 7
 
@@ -154,11 +155,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 
 
-Total: 99
+Total: 100
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 7/12/2021
+Last Update: 7/13/2021
 
