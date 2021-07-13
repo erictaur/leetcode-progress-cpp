@@ -101,7 +101,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |     |
 | 95*    | Unique Binary Search Trees II        |    5/16   |             | Recursive Solution          |     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 17
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 18
 
 | DFS    |                                            |           |             |                         |     |
 |--------|--------------------------------------------|-----------|-------------|-------------------------|-----|
@@ -123,6 +123,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 297*   | Serialize and Deserialize Binary Tree      |    6/6    |             | stringstream            |     |
 | 417*   | Pacific Atlantic Water Flow                |    6/13   |             |                         |     |
 | 17*    | Letter Combinations of a Phone Number      |    7/10   |             |                         |  V  |
+| 40*    | Combination Sum II                         |    7/14   |             |                         |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 7
 
@@ -155,11 +156,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 
 
-Total: 100
+Total: 101
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 7/13/2021
+Last Update: 7/14/2021
 
