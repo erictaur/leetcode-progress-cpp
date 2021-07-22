@@ -52,18 +52,19 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 18*    | 4Sum                                                 |    7/10   |             | 2 Pointers                      |  V  |
 | 26*    | Remove Duplicates from Sorted Array                  |    7/13   |             | 2 Pointers                      |  V  |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 7
+[![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 8
 
-| Hash   |                                      |           |             |                              |     |
-|--------|--------------------------------------|-----------|-------------|------------------------------|-----|
-| Number | Title                                | Init Date | Review Date | Special Notes                |     |
-| 771    | Jewels and Stones                    |    4/15   |             |                              |     |
-| 1748   | Sum of Unique Elements               |    4/15   |             |                              |     |
-| 961    | N-Repeated Element in Size 2N Array  |    4/16   |             | unordered_set                |     |
-| 1207   | Unique Number of Occurrences         |    4/16   |             | uset + umap                  |     |
-| 811*   | Subdomain Visit Count                |    4/16   |             | stoi, string::find()         |     |
-| 1002*  | Find Common Characters               |    4/16   |             | 2 Hash Tables (vector)       |     |
-| 347*   | Top K Frequent Elements              |    6/7    |             | bucket sort (reverse vector) |     |
+| Hash   |                                      |           |             |                                 |     |
+|--------|--------------------------------------|-----------|-------------|---------------------------------|-----|
+| Number | Title                                | Init Date | Review Date | Special Notes                   |     |
+| 771    | Jewels and Stones                    |    4/15   |             |                                 |     |
+| 1748   | Sum of Unique Elements               |    4/15   |             |                                 |     |
+| 961    | N-Repeated Element in Size 2N Array  |    4/16   |             | unordered_set                   |     |
+| 1207   | Unique Number of Occurrences         |    4/16   |             | uset + umap                     |     |
+| 811*   | Subdomain Visit Count                |    4/16   |             | stoi, string::find()            |     |
+| 1002*  | Find Common Characters               |    4/16   |             | 2 Hash Tables (vector)          |     |
+| 347*   | Top K Frequent Elements              |    6/7    |             | bucket sort (reverse vector)    |     |
+| 49*    | Group Anagrams                       |    7/22   |             | sort entry to place into bucket |  V  |
 
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 9
@@ -101,7 +102,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |     |
 | 95*    | Unique Binary Search Trees II        |    5/16   |             | Recursive Solution          |     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 18
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 19
 
 | DFS    |                                            |           |             |                         |     |
 |--------|--------------------------------------------|-----------|-------------|-------------------------|-----|
@@ -124,6 +125,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 417*   | Pacific Atlantic Water Flow                |    6/13   |             |                         |     |
 | 17*    | Letter Combinations of a Phone Number      |    7/10   |             |                         |  V  |
 | 40*    | Combination Sum II                         |    7/14   |             |                         |  V  |
+| 46*    | Permutations                               |    7/21   |             |                         |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 7
 
@@ -156,11 +158,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 
 
-Total: 101
+Total: 103
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 7/14/2021
+Last Update: 7/22/2021
 
