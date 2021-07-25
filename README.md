@@ -127,7 +127,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 40*    | Combination Sum II                         |    7/14   |             |                         |  V  |
 | 46*    | Permutations                               |    7/21   |             |                         |  V  |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 7
+[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 8
 
 | DP     |                                               |           |             |                          |     |
 |--------|-----------------------------------------------|-----------|-------------|--------------------------|-----|
@@ -139,6 +139,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 309*   | Best Time to Buy and Sell Stock with Cooldown |    5/13   |             | FSM                      |     |
 | 152*   | Maximum Product Subarray                      |    6/14   |             | i = max(i\*m, i) and swap|     |
 | 5*     | Longest Palindromic Substring                 |    6/30   |             | 4 patterns: a aa aba abba|  V  |
+| 55*    | Jump Game                                     |    7/26   |             |                          |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-String-<Blue>.svg)](https://leetcode.com/tag/string/) Sub-Total: 3
 
@@ -158,11 +159,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 
 
-Total: 103
+Total: 104
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 7/22/2021
+Last Update: 7/26/2021
 
