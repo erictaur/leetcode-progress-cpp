@@ -127,7 +127,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 40*    | Combination Sum II                         |    7/14   |             |                         |  V  |
 | 46*    | Permutations                               |    7/21   |             |                         |  V  |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 9
+[![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 10
 
 | DP     |                                               |           |             |                          |     |
 |--------|-----------------------------------------------|-----------|-------------|--------------------------|-----|
@@ -141,6 +141,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 5*     | Longest Palindromic Substring                 |    6/30   |             | 4 patterns: a aa aba abba|  V  |
 | 55*    | Jump Game                                     |    7/26   |             |                          |  V  |
 | 62*    | Unique Paths                                  |    7/26   |             |                          |  V  |
+| 70*    | Climbing Stairs                               |    7/27   |             |                          |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-String-<Blue>.svg)](https://leetcode.com/tag/string/) Sub-Total: 3
 
@@ -161,7 +162,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
-Total: 106
+Total: 107
 
 ---
 
