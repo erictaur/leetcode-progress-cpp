@@ -151,20 +151,21 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |     |
 | 20*    | Valid Parentheses                             |    7/12   |             | Stack          |  V  |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Math-<Blue>.svg)](https://leetcode.com/tag/math/) Sub-Total: 2
+[![Generic badge](https://img.shields.io/badge/LeetCode-Math-<Blue>.svg)](https://leetcode.com/tag/math/) Sub-Total: 3
 
 | Math   |                                               |           |             |                |     |
 |--------|-----------------------------------------------|-----------|-------------|----------------|-----|
 | Number | Title                                         | Init Date | Review Date | Special Notes  |     |
 | 7*     | Reverse Integer                               |    6/30   |             | Overflow check |  V  |
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
+| 69*    | Sqrt(x)                                       |    7/27   |             |                |  V  |
 
 
-Total: 105
+Total: 106
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 7/26/2021
+Last Update: 7/27/2021
 
