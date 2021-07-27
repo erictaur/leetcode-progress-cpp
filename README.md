@@ -158,7 +158,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | Number | Title                                         | Init Date | Review Date | Special Notes  |     |
 | 7*     | Reverse Integer                               |    6/30   |             | Overflow check |  V  |
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
-| 69*    | Sqrt(x)                                       |    7/27   |             |                |  V  |
+| 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
 Total: 106
