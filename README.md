@@ -102,7 +102,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |     |
 | 95*    | Unique Binary Search Trees II        |    5/16   |             | Recursive Solution          |     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 19
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 20
 
 | DFS    |                                            |           |             |                         |     |
 |--------|--------------------------------------------|-----------|-------------|-------------------------|-----|
@@ -126,6 +126,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 17*    | Letter Combinations of a Phone Number      |    7/10   |             |                         |  V  |
 | 40*    | Combination Sum II                         |    7/14   |             |                         |  V  |
 | 46*    | Permutations                               |    7/21   |             |                         |  V  |
+| 78*    | Subsets                                    |    8/28   |             |                         |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 10
 
@@ -162,11 +163,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
-Total: 107
+Total: 108
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 7/27/2021
+Last Update: 8/28/2021
 
