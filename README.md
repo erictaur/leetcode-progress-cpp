@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 41
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 42
 
 | Array  |                                                      |           |             |                                 |     |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|-----|
@@ -51,6 +51,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 16*    | 3Sum Closet                                          |    7/10   |             | 2 Pointers                      |  V  |
 | 18*    | 4Sum                                                 |    7/10   |             | 2 Pointers                      |  V  |
 | 26*    | Remove Duplicates from Sorted Array                  |    7/13   |             | 2 Pointers                      |  V  |
+| 80*    | Remove Duplicates from Sorted Array II               |    9/3    |             | 2 Pointers                      |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 8
 
@@ -163,11 +164,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
-Total: 108
+Total: 109
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 8/28/2021
+Last Update: 9/3/2021
 
