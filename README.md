@@ -68,20 +68,22 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 49*    | Group Anagrams                       |    7/22   |             | sort entry to place into bucket |  V  |
 
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 9
+[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 11
 
-| List   |                                      |           |             |                      |     |
-|--------|--------------------------------------|-----------|-------------|----------------------|-----|
-| Number | Title                                | Init Date | Review Date | Special Notes        |     |
-| 2      | Add Two Numbers                      |    2/8    |             |                      |     |
-| 24     | Swap Nodes in Pairs                  |    2/8    |  5/17       | Recursive            |     |
-| 21     | Merge Two Sorted Lists               |    2/9    |  2/28       |                      |  V  |
-| 141    | Linked List Cycle                    |    2/10   |  2/28       | Fast + Slow          |  V  |
-| 23     | Merge K Sorted Lists                 |    3/10   |             | Priority Queue       |  V  |
-| 206**  | Reverse Linked List                  |    5/17   |             | Recursive/Graphical  |  V  |
-| 148**  | Sort List                            |    5/18   |             | Merge Sort Recursive |  V  |
-| 143*   | Reorder List                         |    6/7    |             | Recursive            |     |
-| 19*    | Remove Nth Node From End of List     |    7/12   |             | Fast + Slow          |  V  |
+| List   |                                       |           |             |                      |     |
+|--------|---------------------------------------|-----------|-------------|----------------------|-----|
+| Number | Title                                 | Init Date | Review Date | Special Notes        |     |
+| 2      | Add Two Numbers                       |    2/8    |             |                      |     |
+| 24     | Swap Nodes in Pairs                   |    2/8    |  5/17       | Recursive            |     |
+| 21     | Merge Two Sorted Lists                |    2/9    |  2/28       |                      |  V  |
+| 141    | Linked List Cycle                     |    2/10   |  2/28       | Fast + Slow          |  V  |
+| 23     | Merge K Sorted Lists                  |    3/10   |             | Priority Queue       |  V  |
+| 206**  | Reverse Linked List                   |    5/17   |             | Recursive/Graphical  |  V  |
+| 148**  | Sort List                             |    5/18   |             | Merge Sort Recursive |  V  |
+| 143*   | Reorder List                          |    6/7    |             | Recursive            |     |
+| 19*    | Remove Nth Node From End of List      |    7/12   |             | Fast + Slow          |  V  |
+| 82*    | Remove Duplicates from Sorted List    |    7/12   |             |                      |  V  |
+| 83*    | Remove Duplicates from Sorted List II |    9/4    |             |                      |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 14
 
@@ -164,11 +166,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
-Total: 109
+Total: 111
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 9/3/2021
+Last Update: 9/4/2021
 
