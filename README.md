@@ -82,7 +82,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 148**  | Sort List                             |    5/18   |             | Merge Sort Recursive |  V  |
 | 143*   | Reorder List                          |    6/7    |             | Recursive            |     |
 | 19*    | Remove Nth Node From End of List      |    7/12   |             | Fast + Slow          |  V  |
-| 82*    | Remove Duplicates from Sorted List    |    7/12   |             |                      |  V  |
+| 82*    | Remove Duplicates from Sorted List    |    9/4    |             |                      |  V  |
 | 83*    | Remove Duplicates from Sorted List II |    9/4    |             |                      |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 14
