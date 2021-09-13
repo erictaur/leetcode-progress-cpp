@@ -69,7 +69,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 49*    | Group Anagrams                       |    7/22   |             | sort entry to place into bucket |  V  |
 
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 11
+[![Generic badge](https://img.shields.io/badge/LeetCode-List-<Blue>.svg)](https://leetcode.com/tag/linked-list/) Sub-Total: 12
 
 | List   |                                       |           |             |                      |     |
 |--------|---------------------------------------|-----------|-------------|----------------------|-----|
@@ -85,6 +85,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 19*    | Remove Nth Node From End of List      |    7/12   |             | Fast + Slow          |  V  |
 | 82*    | Remove Duplicates from Sorted List    |    9/4    |             |                      |  V  |
 | 83*    | Remove Duplicates from Sorted List II |    9/4    |             |                      |  V  |
+| 142*   | Linked List Cycle II                  |    9/13   |             | Floyd's Algorithm    |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 14
 
@@ -168,11 +169,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
-Total: 113
+Total: 114
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 9/12/2021
+Last Update: 9/13/2021
 
