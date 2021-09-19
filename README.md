@@ -89,7 +89,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 83*    | Remove Duplicates from Sorted List II |    9/4    |             |                      |  V  |
 | 142*   | Linked List Cycle II                  |    9/13   |             | Floyd's Algorithm    |  V  |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 14
+[![Generic badge](https://img.shields.io/badge/LeetCode-Tree-<Blue>.svg)](https://leetcode.com/tag/tree/) Sub-Total: 15
 
 | Tree   |                                      |           |             |                             |     |
 |--------|--------------------------------------|-----------|-------------|-----------------------------|-----|
@@ -108,6 +108,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 897*   | Increasing Order Search Tree         |    4/19   |             | In-Order + new()            |     |
 | 1022*  | Sum of Root To Leaf Binary Numbers   |    4/19   |             | In-Order + pop sequence     |     |
 | 95*    | Unique Binary Search Trees II        |    5/16   |             | Recursive Solution          |     |
+| 208*   | Implement Trie (Prefix Tree)         |    9/19   |             | Recursive Struct (like AST) |     |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 21
 
@@ -171,11 +172,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
-Total: 116
+Total: 117
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 9/18/2021
+Last Update: 9/19/2021
 
