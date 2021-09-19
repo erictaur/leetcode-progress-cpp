@@ -5,7 +5,7 @@ Showcasing my atrociously slow progress of plowing through leetcode questions in
 To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for the problem index.
 
 ## Finished Problems
-[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 45
+[![Generic badge](https://img.shields.io/badge/LeetCode-Array-<Green>.svg)](https://leetcode.com/tag/array/) Sub-Total: 46
 
 | Array  |                                                      |           |             |                                 |     |
 |--------|------------------------------------------------------|-----------|-------------|---------------------------------|-----|
@@ -55,6 +55,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 136*   | Single Number                                        |    9/12   |             | XOR                             |  V  |
 | 162*   | Find Peak Element                                    |    9/18   |             | Binary Search                   |  V  |
 | 137*   | Single Number II                                     |    9/18   |             | Count sum of bits for each digit|  V  |
+| 155*   | Min Stack                                            |    9/15   |             | Stack of pairs                  |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Hash-<Blue>.svg)](https://leetcode.com/tag/hash-table/) Sub-Total: 8
 
@@ -172,7 +173,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
-Total: 117
+Total: 118
 
 ---
 
