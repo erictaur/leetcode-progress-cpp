@@ -111,32 +111,33 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 95*    | Unique Binary Search Trees II        |    5/16   |             | Recursive Solution          |     |
 | 208*   | Implement Trie (Prefix Tree)         |    9/19   |             | Recursive Struct (like AST) |     |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 21
+[![Generic badge](https://img.shields.io/badge/LeetCode-DFS-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 22
 
-| DFS    |                                            |           |             |                         |     |
-|--------|--------------------------------------------|-----------|-------------|-------------------------|-----|
-| Number | Title                                      | Init Date | Review Date | Special Notes           |     |
-| 733*   | Flood Fill                                 |    2/15   |             |                         |     |
-| 547*   | Number of Provinces                        |    2/16   |             |                         |     |
-| 841*   | Keys and Rooms                             |    2/16   |             |                         |     |
-| 207*   | Course Schedule                            |    2/17   |             | topological sort        |     |
-| 39*    | Combination Sum                            |    2/22   |             |                         |  V  |
-| 687*   | Longest Univalue Path                      |    5/2    |             |                         |     |
-| 104*   | Maximum Depth of Binary Tree               |    5/3    |             |                         |     |
-| 108*   | Convert Sorted Array to Binary Search Tree |    5/4    |             |                         |     |
-| 114**  | Flatten Binary Tree to Linked List         |    5/6    |             |                         |     |
-| 257*   | Binary Tree Paths                          |    5/10   |             |                         |     |
-| 199*   | Binary Tree Right Side View                |    5/11   |             |                         |     |
-| 491*   | Increasing Subsequences                    |    5/12   |             |                         |     |
-| 109*   | Convert Sorted List to Binary Search Tree  |    5/14   |             |                         |     |
-| 128*   | Longest Consecutive Sequence               |    6/6    |             | unordered_set           |     |
-| 297*   | Serialize and Deserialize Binary Tree      |    6/6    |             | stringstream            |     |
-| 417*   | Pacific Atlantic Water Flow                |    6/13   |             |                         |     |
-| 17*    | Letter Combinations of a Phone Number      |    7/10   |             |                         |  V  |
-| 40*    | Combination Sum II                         |    7/14   |             |                         |  V  |
-| 46*    | Permutations                               |    7/21   |             |                         |  V  |
-| 78*    | Subsets                                    |    8/28   |             |                         |  V  |
-| 90*    | Subsets II                                 |    9/9    |             |                         |  V  |
+| DFS    |                                                                |           |             |                         |     |
+|--------|----------------------------------------------------------------|-----------|-------------|-------------------------|-----|
+| Number | Title                                                          | Init Date | Review Date | Special Notes           |     |
+| 733*   | Flood Fill                                                     |    2/15   |             |                         |     |
+| 547*   | Number of Provinces                                            |    2/16   |             |                         |     |
+| 841*   | Keys and Rooms                                                 |    2/16   |             |                         |     |
+| 207*   | Course Schedule                                                |    2/17   |             | topological sort        |     |
+| 39*    | Combination Sum                                                |    2/22   |             |                         |  V  |
+| 687*   | Longest Univalue Path                                          |    5/2    |             |                         |     |
+| 104*   | Maximum Depth of Binary Tree                                   |    5/3    |             |                         |     |
+| 108*   | Convert Sorted Array to Binary Search Tree                     |    5/4    |             |                         |     |
+| 114**  | Flatten Binary Tree to Linked List                             |    5/6    |             |                         |     |
+| 257*   | Binary Tree Paths                                              |    5/10   |             |                         |     |
+| 199*   | Binary Tree Right Side View                                    |    5/11   |             |                         |     |
+| 491*   | Increasing Subsequences                                        |    5/12   |             |                         |     |
+| 109*   | Convert Sorted List to Binary Search Tree                      |    5/14   |             |                         |     |
+| 128*   | Longest Consecutive Sequence                                   |    6/6    |             | unordered_set           |     |
+| 297*   | Serialize and Deserialize Binary Tree                          |    6/6    |             | stringstream            |     |
+| 417*   | Pacific Atlantic Water Flow                                    |    6/13   |             |                         |     |
+| 17*    | Letter Combinations of a Phone Number                          |    7/10   |             |                         |  V  |
+| 40*    | Combination Sum II                                             |    7/14   |             |                         |  V  |
+| 46*    | Permutations                                                   |    7/21   |             |                         |  V  |
+| 78*    | Subsets                                                        |    8/28   |             |                         |  V  |
+| 90*    | Subsets II                                                     |    9/9    |             |                         |  V  |
+| 1239*  | Maximum Length of a Concatenated String with Unique Characters |    9/26   |             |                         |  V  |
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-DP-<Blue>.svg)](https://leetcode.com/tag/dfs/) Sub-Total: 10
 
@@ -173,11 +174,11 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
 
 
-Total: 118
+Total: 119
 
 ---
 
 This page will be updated tentatively upon completion of solving more problems.
 
-Last Update: 9/19/2021
+Last Update: 9/26/2021
 
