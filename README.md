@@ -164,7 +164,7 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 13*    | Roman to Integer                              |    5/16   |             | Unordered Map  |     |
 | 20*    | Valid Parentheses                             |    7/12   |             | Stack          |  V  |
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Math-<Blue>.svg)](https://leetcode.com/tag/math/) Sub-Total: 3
+[![Generic badge](https://img.shields.io/badge/LeetCode-Math-<Blue>.svg)](https://leetcode.com/tag/math/) Sub-Total: 4
 
 | Math   |                                               |           |             |                |     |
 |--------|-----------------------------------------------|-----------|-------------|----------------|-----|
@@ -172,9 +172,10 @@ To find my corresponding submission of a problem, simply search (`ctrl`+`f`) for
 | 7*     | Reverse Integer                               |    6/30   |             | Overflow check |  V  |
 | 9*     | Palindrome Number                             |    7/8    |             |                |  V  |
 | 69*    | Sqrt(x)                                       |    7/27   |             | Binary Search  |  V  |
+| 67*    | Add Binary                                    |    9/26   |             |                |  V  |
 
 
-Total: 119
+Total: 120
 
 ---
 
